@@ -1,5 +1,0 @@
-package shortener
-
-func main() {
-
-}
